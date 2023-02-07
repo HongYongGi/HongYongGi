@@ -65,14 +65,29 @@ I have studied medical imaging as a major from bachelor's to master's degree. Du
     5. TiSepX product development 
         * period : 2022.02 ~ now
         * role   : New GAN model development, CT -> X-ray preprocessing development
-        
+
 
 
 **Ganchon University MMMIL(Multi-Modality Medical Image Lab), Incheon, Korea**
 
     1. Dental AI project
-        * Cephalogram 46 landmark detection model
-        * Malocclusion class classification model
+        * period : 2018.03~2022.03
+        * role   : AI model development, RestAPI framework development, Create Homepage
+        * AI model development
+            * Cephalogram 46 landmark detection model
+            * Malocclusion class classification model
+
+        * RestAPI framework development
+            * Cephalogram landmark detection RestAPI
+            * Malocclusion class classification RestAPI
+            * Tongue Cancer GradCAM RestAPI
+        
+        * Homepage
+            * Dental Homepage
+    
+    2. EEG Breathing Task classification Project
+        * period : 2018.06~2020.02
+        * role   : EEG data preprocessing, Machine Learning Model development
 
 
 ### :bar_chart: States
