@@ -89,6 +89,13 @@ I have studied medical imaging as a major from bachelor's to master's degree. Du
         * period : 2018.06~2020.02
         * role   : EEG data preprocessing, Machine Learning Model development
 
+    3. PET SGER Project
+        * period : 2018.03~2022.02
+        * role   : PET Sinogram to Reconstruction Image Deep Learning model development, PET phantom design and fabrication, PET image deblurring, PET image denoising
+
+    
+    
+
 
 ### :bar_chart: States
 
