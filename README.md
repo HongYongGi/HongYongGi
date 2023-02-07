@@ -1,8 +1,5 @@
 # Yonggi Hong
 
-### :computer: About ME
-
-
 
 ### :computer: Experience
 - **MedicalIP, Seoul, Korea** - Medical Imaging Artificial Intelligence Company
@@ -26,17 +23,50 @@ I have studied medical imaging as a major from bachelor's to master's degree. Du
 
 ### Publications
 
-Hong, Yong-Gi, Hang-Keun Kim, Young-Don Son, and Chang-Ki Kang. 2021. "Identification of Breathing Patterns through EEG Signal Analysis Using Machine Learning" Brain Sciences 11, no. 3: 293. https://doi.org/10.3390/brainsci11030293
+* Hong, Yong-Gi, Hang-Keun Kim, Young-Don Son, and Chang-Ki Kang. 2021. "Identification of Breathing Patterns through EEG Signal Analysis Using Machine Learning" Brain Sciences 11, no. 3: 293. https://doi.org/10.3390/brainsci11030293
 
 
-Yonggi Hong. "Classification of malocclusion based on deep learning using pseudo-relative distance between first molars." Domestic master's thesis Gachon University Graduate School, 2022. Incheon 
+* Yonggi Hong. "Classification of malocclusion based on deep learning using pseudo-relative distance between first molars." Domestic master's thesis Gachon University Graduate School, 2022. Incheon 
 
 
+
+###  Participating projects
+
+**MedicalIP, Seoul, Korea** 
+    
+    1. Medical Image Segmentation project
+        * Total Organ Segmentation - Skin, Bone, Muscle, AVF, OF(SF), IO, BSC(CNS)
+        * Liver Spleen Segmentation
+        * Adrenal gland Segmentation
+        * Brain Tumor Segmentation
+        * Spine Segmentation - C1~C7,T1~T12, S1~S5
+        * Brain CT ICH Segmentation 
+        * Lung, Fissure Segmentation
+        * Lower body Segmentation - Femur, Patella, Tibia, Fibula, Talus, Calcaneus, Footbones
+
+    2. PET-CT Registration project
+        * https://github.com/HongYongGi/PET-CT-SUV-measurement
+    
+    3. Multi-phase CT registration project
+        * Multi-phase(Pre, Artery, Portal, Delay) CT volume registration project
+
+    4. Respiratory registration project
+        * Inhalation Exhalation CT volume registration project
+
+    5. TiSepX product development 
+
+
+**Ganchon University MMMIL(Multi-Modality Medical Image Lab), Incheon, Korea**
+
+    1. Dental AI project
+        * 
+    
 
 
 
 ### :bar_chart: States
-- [![yonggi's github stats](https://github-readme-stats.vercel.app/api?username=HongYongGi&show_icons=true&theme=dark&hide_title=true)](https://github.com/HongYongGi)
+
+[![yonggi's github stats](https://github-readme-stats.vercel.app/api?username=HongYongGi&show_icons=true&theme=dark&hide_title=true)](https://github.com/HongYongGi)
 
 
 
