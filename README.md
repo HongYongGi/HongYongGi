@@ -2,6 +2,7 @@
 
 
 ### :computer: Experience
+- **Tesser, Seoul, Korea** - Medical Imaging Artificial Intelligence Company
 - **MedicalIP, Seoul, Korea** - Medical Imaging Artificial Intelligence Company
 - **Ganchon University MMMIL(Multi-Modality Medical Image Lab), Incheon, Korea** - Master's researcher
 - **Gachon University MMMIL(Multi-Modality Medical Image Lab), Incheon, Korea** - Undergraduate Student Researcher
@@ -31,6 +32,8 @@ I have studied medical imaging as a major from bachelor's to master's degree. Du
 
 
 ###  Participating projects
+
+
 
 **MedicalIP, Seoul, Korea** 
     
