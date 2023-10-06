@@ -97,16 +97,7 @@ I have studied medical imaging as a major from bachelor's to master's degree. Du
         * role   : PET Sinogram to Reconstruction Image Deep Learning model development, PET phantom design and fabrication, PET image deblurring, PET image denoising
 
     
-    
-
-
-### :bar_chart: States
-
-[![yonggi's github stats](https://github-readme-stats.vercel.app/api?username=HongYongGi&show_icons=true&theme=dark&hide_title=true)](https://github.com/HongYongGi)
-
-
-
-
+   
 
 Misc.
 I've been playing the piano since I was 7 and can play other instruments too. I am still active as a flute part in the orchestra. He also regularly holds piano concerts.
