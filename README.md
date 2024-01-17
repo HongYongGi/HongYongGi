@@ -13,9 +13,6 @@
 * Gachon University, Incheon, Korea - Bachelor of Biomedical Engineering
 
 
-
-
-
 ### Interest
 I am currently interested in Artificial General Intelligence, Artificial intelligence in medical Imaging(PET, CT, MRI, X-ray, etc.), Computer Vision, Natural Language Processing, RestAPI Dev.
 
@@ -33,6 +30,23 @@ I have studied medical imaging as a major from bachelor's to master's degree. Du
 
 ###  Participating projects
 
+**Tesser, Seoul, Korea**
+
+    1. Lung Cancer Tracking project
+        * period : 2023.05 ~ 2023.12
+        * role   : Data preprocessing, Training, Inference, GUI development
+
+    2. Breast Cancer MRI Segmentation project
+        * period : 2023.05 ~ now
+        * role   : Data preprocessing, Training, Inference, Postprocessing
+    
+    3. Breast Cancer Surgery Planning project
+        * period : 2023.05 ~ now
+        * role   : Data preprocessing, Training, Inference, Postprocessing
+
+    4. Medical Twin CT Project
+        * period : 2023.05 ~ now
+        * role   : Data preprocessing, Training, Inference, Postprocessing
 
 
 **MedicalIP, Seoul, Korea** 
@@ -66,7 +80,7 @@ I have studied medical imaging as a major from bachelor's to master's degree. Du
         * Inhalation Exhalation CT volume registration project
 
     5. TiSepX product development 
-        * period : 2022.02 ~ now
+        * period : 2022.02 ~ 2023.03
         * role   : New GAN model development, CT -> X-ray preprocessing development
 
 
