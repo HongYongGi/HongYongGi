@@ -1,7 +1,5 @@
 # Yonggi Hong
 
-<a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/HongYongGi" width="600" height="300" /> </a>
-
 
 ### :computer: Experience
 - **Tesser, Seoul, Korea** - Medical Imaging Artificial Intelligence Company
@@ -114,6 +112,7 @@ I have studied medical imaging as a major from bachelor's to master's degree. Du
 
     
    
+<a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/HongYongGi" width="600" height="300" /> </a>
 
 Misc.
 I've been playing the piano since I was 7 and can play other instruments too. I am still active as a flute part in the orchestra. He also regularly holds piano concerts.
