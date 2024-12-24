@@ -1,5 +1,7 @@
 # Yonggi Hong
 
+<a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/HongYongGi" width="600" height="300" /> </a>
+
 
 ### :computer: Experience
 - **Tesser, Seoul, Korea** - Medical Imaging Artificial Intelligence Company
